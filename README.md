@@ -21,3 +21,4 @@ Window 1:
 Window 2: 
     - Run: "py test_server.py"
 
+* Utilized chatgpt to assist in completing assignment.
